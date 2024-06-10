@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <span color="red">Anurag Saxena</span> and I'm a Frontend Developer, from New Delhi</h2>
+<h2 align="left">Hi 👋! My name is <span style="color:red;">Anurag Saxena</span> and I'm a Frontend Developer, from New Delhi</h2>
 
 ###
 
